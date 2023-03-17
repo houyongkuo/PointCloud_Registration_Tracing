@@ -22,8 +22,8 @@ This list focuses on the rigid registration between point clouds and tracks prog
 - 5.[Tools](#tools)
 
 ### 1.Overview
+- [Deep learning based point cloud registration: an overview](https://www.sciencedirect.com/science/article/pii/S2096579620300383) 【Virtual Reality & Intelligent Hardware, 2020】
 - [A comprehensive survey on point cloud registration](https://arxiv.org/pdf/2103.02690) 【arXiv, 2021】
-- [A comprehensive survey on point cloud registration](https://arxiv.org/pdf/2103.02690)【arXiv, 2021】
 - [A review of non-rigid transformations and learning-based 3D point cloud registration methods](https://www.sciencedirect.com/science/article/pii/S0924271622003380)【ISPRS Journal of Photogrammetry and Remote Sensing, 2023】
 
 
