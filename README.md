@@ -32,8 +32,18 @@ This list focuses on the rigid registration between point clouds and tracks prog
 #### 2.1 Feature Matching Based
 ##### 2.1.1 Feature Description
 ###### (1) Point-based Strategy
+- [D3Feat: Joint Learning of Dense Detection and Description of 3D Local Features](https://arxiv.org/abs/2003.03164) 【CVPR, 2020】【[code](https://github.com/XuyangBai/D3Feat)】
+
 ###### (2) Voxel-based Strategy
+- [FCGF: Fully Convolutional Geometric Features](https://openaccess.thecvf.com/content_ICCV_2019/papers/Choy_Fully_Convolutional_Geometric_Features_ICCV_2019_paper.pdf) 【ICCV, 2019】【[code](https://github.com/chrischoy/FCGF)】
+
 ###### (3) Point-Voxel Strategy
+
+###### (4) Line-based Strategy
+- [SuperLine3D: Self-supervised Line Segmentation and Description for LiDAR Point Cloud](https://arxiv.org/pdf/2208.01925)【ECCV, 2022】【[code](https://github.com/zxrzju/SuperLine3D)】
+
+###### (5) Other Strategy
+
 ##### 2.1.2 Keypoint Detection
 ##### 2.1.3 Outlier Rejection
 
