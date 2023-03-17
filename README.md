@@ -51,7 +51,9 @@ This list focuses on the rigid registration between point clouds and tracks prog
 
 ##### 2.1.2 Keypoint Detection
 ##### 2.1.3 Outlier Rejection
-
+- [RANSAC: Random Sample Consensus: A Paradigm for Model Fitting with Applications to Image Analysis and Automated Cartography](http://www.cs.ait.ac.th/~mdailey/cvreadings/Fischler-RANSAC.pdf) 【1981】
+- [TEASER: Fast and Certifiable Point Cloud Registration](https://arxiv.org/abs/2001.07715) 【T-RO, 2020】【[code](https://github.com/MIT-SPARK/TEASER-plusplus)】
+- [SC^2-PCR: A Second Order Spatial Compatibility for Efficient and Robust Point Cloud Registration](https://arxiv.org/abs/2203.14453)【CVPR, 2022】【[code](https://github.com/ZhiChen902/SC2-PCR)】
 ### 3.Fine Registration (Local Registration)
 
 
