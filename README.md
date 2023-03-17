@@ -53,7 +53,9 @@ This list focuses on the rigid registration between point clouds and tracks prog
 - [Geometric Transformer for Fast and Robust Point Cloud Registration](https://openaccess.thecvf.com/content/CVPR2022/papers/Qin_Geometric_Transformer_for_Fast_and_Robust_Point_Cloud_Registration_CVPR_2022_paper.pdf)【CVPR, 2022】【[code](https://github.com/qinzheng93/GeoTransformer)】
 
 ###### (6) Other Strategy
+- [SpinNet: Learning a General Surface Descriptor for 3D Point Cloud Registration](https://arxiv.org/abs/2011.12149)【CVPR, 2021】【[code](https://github.com/QingyongHu/SpinNet)】
 - [You Only Hypothesize Once: Point Cloud Registration with Rotation-equivariant Descriptors](https://arxiv.org/abs/2109.00182)【ICCV, 2021】【[code](https://github.com/HpWang-whu/YOHO)】
+
 ##### 2.1.2 Keypoint Detection
 - [USIP: Unsupervised Stable Interest Point Detection From 3D Point Clouds](https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_USIP_Unsupervised_Stable_Interest_Point_Detection_From_3D_Point_Clouds_ICCV_2019_paper.pdf)【ICCV, 2019】【[code](https://github.com/lijx10/USIP)】
 - [Point cloud saliency detection by local and global feature fusion](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=8726371&ref=)【T-IP, 2019】
