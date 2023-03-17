@@ -32,9 +32,14 @@ This list focuses on the rigid registration between point clouds and tracks prog
 #### 2.1 Feature Matching Based
 ##### 2.1.1 Feature Description
 ###### (1) Point-based Strategy
+- [PPFNet: Global Context Aware Local Features for Robust 3D Point Matching](http://arxiv.org/pdf/1802.02669)【CVPR, 2018】
+- [PPF-FoldNet: Unsupervised Learning of Rotation Invariant 3D Local Descriptors](https://arxiv.org/abs/1808.10322)【ECCV, 2018】【[code](https://github.com/XuyangBai/PPF-FoldNet)】
+- [3DFeat-Net: Weakly Supervised Local 3D Features for Point Cloud Registration](https://arxiv.org/pdf/1807.09413.pdf)【ECCV, 2018】【[code](https://github.com/yewzijian/3DFeatNet)】
 - [D3Feat: Joint Learning of Dense Detection and Description of 3D Local Features](https://arxiv.org/abs/2003.03164) 【CVPR, 2020】【[code](https://github.com/XuyangBai/D3Feat)】
 
 ###### (2) Voxel-based Strategy
+- [3DMatch: Learning Local Geometric Descriptors from RGB-D Reconstructions](http://arxiv.org/pdf/1603.08182)【CVPR, 2017】 【[code](https://github.com/andyzeng/3dmatch-toolbox)】
+- [The Perfect Match: 3D Point Cloud Matching with Smoothed Densities](https://arxiv.org/abs/1811.06879)【CVPR, 2019] 【[code](https://github.com/zgojcic/3DSmoothNet)】
 - [FCGF: Fully Convolutional Geometric Features](https://openaccess.thecvf.com/content_ICCV_2019/papers/Choy_Fully_Convolutional_Geometric_Features_ICCV_2019_paper.pdf) 【ICCV, 2019】【[code](https://github.com/chrischoy/FCGF)】
 
 ###### (3) Point-Voxel Strategy
