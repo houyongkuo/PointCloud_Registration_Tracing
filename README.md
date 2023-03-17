@@ -50,8 +50,11 @@ This list focuses on the rigid registration between point clouds and tracks prog
 ###### (5) Other Strategy
 
 ##### 2.1.2 Keypoint Detection
+- [USIP: Unsupervised Stable Interest Point Detection From 3D Point Clouds](https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_USIP_Unsupervised_Stable_Interest_Point_Detection_From_3D_Point_Clouds_ICCV_2019_paper.pdf)【ICCV, 2019】【[code](https://github.com/lijx10/USIP)】
+- [Point cloud saliency detection by local and global feature fusion](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=8726371&ref=)【T-IP, 2019】
 - [D3Feat: Joint Learning of Dense Detection and Description of 3D Local Features](https://arxiv.org/abs/2003.03164) 【CVPR, 2020】【[code](https://github.com/XuyangBai/D3Feat)】
 - [3D3L: Deep learned 3D keypoint detection and description for lidars](https://arxiv.org/pdf/2103.13808)【ICRA, 2021】【[code](https://github.com/ethz-asl/3d3l)】
+- [UKPGAN: A General Self-Supervised Keypoint Detector](https://openaccess.thecvf.com/content/CVPR2022/papers/You_UKPGAN_A_General_Self-Supervised_Keypoint_Detector_CVPR_2022_paper.pdf)【CVPR, 2022】【[code](https://github.com/qq456cvb/UKPGAN)】
 
 ##### 2.1.3 Outlier Rejection
 - [RANSAC: Random Sample Consensus: A Paradigm for Model Fitting with Applications to Image Analysis and Automated Cartography](http://www.cs.ait.ac.th/~mdailey/cvreadings/Fischler-RANSAC.pdf) 【1981】
