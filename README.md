@@ -22,9 +22,10 @@ This list focuses on the rigid registration between point clouds and tracks prog
 - 5.[Tools](#tools)
 
 ### 1.Overview
-- [Deep learning based point cloud registration: an overview](https://www.sciencedirect.com/science/article/pii/S2096579620300383) 【Virtual Reality & Intelligent Hardware, 2020】
+- [Deep learning based point cloud registration: an overview](https://www.sciencedirect.com/science/article/pii/S2096579620300383) 【VRIH, 2020】
 - [A comprehensive survey on point cloud registration](https://arxiv.org/pdf/2103.02690) 【arXiv, 2021】
-- [A review of non-rigid transformations and learning-based 3D point cloud registration methods](https://www.sciencedirect.com/science/article/pii/S0924271622003380)【ISPRS Journal of Photogrammetry and Remote Sensing, 2023】
+- [Transformers in 3D Point Clouds: A Survey](https://arxiv.org/pdf/2205.07417) 【arXiv, 2022】
+- [A review of non-rigid transformations and learning-based 3D point cloud registration methods](https://www.sciencedirect.com/science/article/pii/S0924271622003380)【ISPRS, 2023】
 
 
 ### 2.Coarse Registration
@@ -47,8 +48,12 @@ This list focuses on the rigid registration between point clouds and tracks prog
 ###### (4) Line-based Strategy
 - [SuperLine3D: Self-supervised Line Segmentation and Description for LiDAR Point Cloud](https://arxiv.org/pdf/2208.01925)【ECCV, 2022】【[code](https://github.com/zxrzju/SuperLine3D)】
 
-###### (5) Other Strategy
+###### (5) Transformer-based Strategy
+- [Full Transformer Framework for Robust Point Cloud Registration with Deep Information Interaction](https://arxiv.org/pdf/2112.09385)【arXiv, 2021】
+- [Geometric Transformer for Fast and Robust Point Cloud Registration](https://openaccess.thecvf.com/content/CVPR2022/papers/Qin_Geometric_Transformer_for_Fast_and_Robust_Point_Cloud_Registration_CVPR_2022_paper.pdf)【CVPR, 2022】【[code](https://github.com/qinzheng93/GeoTransformer)】
 
+###### (6) Other Strategy
+- [You Only Hypothesize Once: Point Cloud Registration with Rotation-equivariant Descriptors](https://arxiv.org/abs/2109.00182)【ICCV, 2021】【[code](https://github.com/HpWang-whu/YOHO)】
 ##### 2.1.2 Keypoint Detection
 - [USIP: Unsupervised Stable Interest Point Detection From 3D Point Clouds](https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_USIP_Unsupervised_Stable_Interest_Point_Detection_From_3D_Point_Clouds_ICCV_2019_paper.pdf)【ICCV, 2019】【[code](https://github.com/lijx10/USIP)】
 - [Point cloud saliency detection by local and global feature fusion](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=8726371&ref=)【T-IP, 2019】
